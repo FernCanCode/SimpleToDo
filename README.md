@@ -35,6 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Android Studio was unable to recognize that Git was installed. Installing an older version of Git fixed this issue.
 Allowing Android Studio to autofill the framework for a method override caused a file path to be included in the constructors.
 Overlapping of elements in Design layout caused issues with interactability.
+Device emulator System UI kept crashing. Switched to hadware render in AVD Manager for device. Fixed issue.
 
 
 ## License
